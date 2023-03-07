@@ -23,7 +23,6 @@ li {
   color: rgb(135, 135, 135);
   font-size: 16px;
   font-weight: 100;
-  line-height: 10px;
 }
 
 .weather-app-wrapper {
@@ -58,4 +57,9 @@ font-weight: 400;
   position: relative;
   font-size: 16px;
   top: -34px;
+}
+
+.units a {
+  text-decoration: none;
+  color: black;
 }
